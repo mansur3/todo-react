@@ -1,0 +1,24 @@
+.container {
+    /* display: flex;
+    flex-direction : column; */
+    /* margin: 20px;
+    margin-top: 40px; */
+}
+
+/* .todoInput {
+    margin-bottom: 30px;
+}
+.showTodo {
+    margin-left : 10px;
+    margin-bottom: 20px;
+    color: white;
+} */
+
+.click {
+    width: 400px;
+    height: 50px;
+    color: white;
+    background-color: green;
+    font-size: 30px;
+    border-radius: 10px;
+}
